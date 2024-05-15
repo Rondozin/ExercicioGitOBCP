@@ -1,0 +1,5 @@
+Aqui aprendemos a conectar ao github usando o git no terminal, usando os comandos
+git clone (LINK DO PROJETO)
+git remote add origin (LINK DO PROJETO)
+git push -u origin master
+git pull origin master
