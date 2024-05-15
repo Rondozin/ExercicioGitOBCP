@@ -1,0 +1,2 @@
+Aqui aprendemos a importancias das Branchs, para o uso e otimização do trabalho 
+quando estamos trabalhando em equipe, aprendemos a criar e unificar as branchs.
