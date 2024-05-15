@@ -1,0 +1,2 @@
+Na introdução do curso aprendemos qual o conceito e o por que utilizar o Git,
+ para manipular e versionar nossos proejtos.
